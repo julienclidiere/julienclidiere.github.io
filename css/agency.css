@@ -685,7 +685,7 @@ section.section-howto {
     position: relative;
 }
 .assur-list li {
-    background: url(../img/check.png) 0 no-repeat;
+    background: url(../img/check.PNG) 0 no-repeat;
     background-size: 1.5em;
     display: inline-block;
     font-family: TradeGothic-Bold, Helvetica, sans-serif;
